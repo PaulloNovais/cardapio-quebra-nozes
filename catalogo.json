@@ -1,0 +1,44 @@
+{
+  "categorias": [
+    {
+      "nome": "BROWNIE PALITO",
+      "etiqueta": "NOVIDADE",
+      "itens": [
+        { "nome": "Maracujá", "preco": 15, "ativo": true },
+        { "nome": "Prestígio", "preco": 15, "ativo": true },
+        { "nome": "Uva Verde", "preco": 15, "ativo": true }
+      ]
+    },
+    {
+      "nome": "BOLOS GELADOS",
+      "etiqueta": "",
+      "itens": [
+        { "nome": "Olho de Sogra", "preco": 12, "ativo": true },
+        { "nome": "Cocada Cremosa com Abacaxi", "preco": 12, "ativo": true },
+        { "nome": "Ninho com geleia de Morango", "preco": 12, "ativo": true },
+        { "nome": "Prestígio", "preco": 12, "ativo": true }
+      ]
+    },
+    {
+      "nome": "BROWNIES",
+      "etiqueta": "",
+      "itens": [
+        { "nome": "Ninho com Nutella", "preco": 13, "ativo": true },
+        { "nome": "Brigadeiro ao Leite", "preco": 12, "ativo": true },
+        { "nome": "Dois Amores", "preco": 12, "ativo": true },
+        { "nome": "Caramelo Salgado", "preco": 12, "ativo": true },
+        { "nome": "Maracujá", "preco": 12, "ativo": false }
+      ]
+    },
+    {
+      "nome": "COOKIES",
+      "etiqueta": "",
+      "itens": [
+        { "nome": "Tradicional", "preco": 10, "ativo": true },
+        { "nome": "Red Velvet", "preco": 13, "ativo": true },
+        { "nome": "Nutella", "preco": 13, "ativo": false },
+        { "nome": "Duo Chocolate", "preco": 10, "ativo": false }
+      ]
+    }
+  ]
+}
